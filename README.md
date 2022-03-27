@@ -1,3 +1,3 @@
-# Redes I - Trabalho 01 - Problema do Trem
+# Redes I - Trabalho 01
 
 ## Versão antiga do primeiro trabalho da disciplina de Redes I
